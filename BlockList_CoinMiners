@@ -1,9 +1,10 @@
 ### BlockList_CoinMiners
+### In this list, 0.0.0.0 is removed for ease of use (in place of REGEXP) together with PiHole and Mikrotik.
+
 ### Contribute: https://gitlab.com/ZeroDot1/CoinBlockerLists/issues/new
 ### Copyright: (c) ZeroDot1, 2019
-### Description: This list disables browser based miners such as coin-hive
-### Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XZK7ZDR3W4QM4&source=url Every donation keeps the future development going. Thank you.
 ### Homepage: https://github.com/ZeroDot1/CoinBlockerLists
+
 ### Last modified: 2021-01-15 21:29:15
 
 000.0x1f4b0.com
